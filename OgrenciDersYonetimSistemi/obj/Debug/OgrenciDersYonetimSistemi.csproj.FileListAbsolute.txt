@@ -1,0 +1,7 @@
+C:\Users\SAMET\source\repos\OgrenciDersYonetimSistemi\obj\Debug\OgrenciDersYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\SAMET\source\repos\OgrenciDersYonetimSistemi\obj\Debug\OgrenciDersYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\SAMET\source\repos\OgrenciDersYonetimSistemi\bin\Debug\OgrenciDersYonetimSistemi.exe.config
+C:\Users\SAMET\source\repos\OgrenciDersYonetimSistemi\bin\Debug\OgrenciDersYonetimSistemi.exe
+C:\Users\SAMET\source\repos\OgrenciDersYonetimSistemi\bin\Debug\OgrenciDersYonetimSistemi.pdb
+C:\Users\SAMET\source\repos\OgrenciDersYonetimSistemi\obj\Debug\OgrenciDersYonetimSistemi.exe
+C:\Users\SAMET\source\repos\OgrenciDersYonetimSistemi\obj\Debug\OgrenciDersYonetimSistemi.pdb

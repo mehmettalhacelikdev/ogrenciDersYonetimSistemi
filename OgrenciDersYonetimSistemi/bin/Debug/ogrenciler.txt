@@ -1,0 +1,2 @@
+Ad: Mehmet, Soyad: Deniz, Numara: 31
+Ad: sa, Soyad: de, Numara: 11
